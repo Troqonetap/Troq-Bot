@@ -1,0 +1,18 @@
+{
+  "name": "troq_webhook",
+  "version": "1.0.0",
+  "description": "TROQ AI WhatsApp Webhook",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.12.2",
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  },
+  "author": "Chaitanya Yadav",
+  "license": "ISC"
+}
